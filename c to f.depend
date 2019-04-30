@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556619566 source:c:\users\mike waz\desktop\c to f\main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
